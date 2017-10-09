@@ -8,6 +8,8 @@ A MelonJS made "Flappy Bird" clone.
 Play online at http://ellisonleao.github.io/clumsy-bird/
 
 ## Running Locally
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fclumsy-bird.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fclumsy-bird?ref=badge_shield)
+
 
 - Install [Node](http://nodejs.org/download/) and [Grunt](http://gruntjs.com/)
 - Install the dependencies
@@ -44,3 +46,7 @@ See [CUSTOMIZING](https://github.com/ellisonleao/clumsy-bird/blob/gh-pages/CUSTO
 If you made something with this code, please [share here](https://github.com/ellisonleao/clumsy-bird/wiki/Games-using-clumsy-bird-code) and i'll be happy to add your game into the list.
 
 Some thoughts about this code you can find on [my blog post](https://medium.com/@ellisonleao/clumsy-bird-an-open-source-flappy-bird-clone-cf615724730f)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fclumsy-bird.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fclumsy-bird?ref=badge_large)
